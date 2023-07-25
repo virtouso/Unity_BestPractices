@@ -1,11 +1,16 @@
 {
   "dependencies": {
-    "com.resolutiongames.test": {
-      "version": "https://github.com/resolutiongames/programming-test-package-template.git",
+    "com.dteruel.toolnity.logger": {
+      "version": "file:C:/Users/s_moe/Downloads/Compressed/Toolnity-master/Toolnity-master/Packages/Toolnity - Logger",
       "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "384f5548e596bc27055d66adeb02c46eb44b0956"
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.resolutiongames.test": {
+      "version": "file:C:/Users/s_moe/Desktop/LoggerSolution",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
     },
     "com.unity.2d.animation": {
       "version": "7.0.7",

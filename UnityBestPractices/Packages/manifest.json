@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "com.resolutiongames.test": "https://github.com/resolutiongames/programming-test-package-template.git",
+    "com.dteruel.toolnity.logger": "file:C:/Users/s_moe/Downloads/Compressed/Toolnity-master/Toolnity-master/Packages/Toolnity - Logger",
+    "com.resolutiongames.test": "file:C:/Users/s_moe/Desktop/LoggerSolution",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.ide.rider": "3.0.15",
