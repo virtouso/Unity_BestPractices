@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44402242, g: 0.49316543, b: 0.5722324, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3200,23 +3200,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 2049424916}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 183cb7d4b49347eeaeb1a36e3e95ff85, type: 3}
+  m_Script: {fileID: 0}
   m_Name: 
   m_EditorClassIdentifier: 
-  channelTogglePrefab: {fileID: 364171216}
-  logLevelTogglePrefab: {fileID: 845014129}
-  logFileAddressText: {fileID: 1617887067}
-  logText: {fileID: 1456621880}
-  channels: {fileID: 11400000, guid: eaa54d67f20549e4887c2b118f34f0b3, type: 2}
-  toggleButton: {fileID: 1156874062}
-  saveButton: {fileID: 613344354}
-  loadButton: {fileID: 1198025786}
-  openDirectoryButton: {fileID: 350008144}
-  footer: {fileID: 2040136973}
-  contents: {fileID: 1455856156}
-  choiceButtons: {fileID: 838581332}
-  channelsParent: {fileID: 1855564722}
-  logTypesParent: {fileID: 1850676845}
 --- !u!1 &2074674345
 GameObject:
   m_ObjectHideFlags: 0
