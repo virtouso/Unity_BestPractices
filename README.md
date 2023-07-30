@@ -14,6 +14,8 @@ singleton and service locators.
 
 there is only one context class. any object can bind itself or call get dependencies
 
+
+
 ## Single Entry
 
 like a console application the app starts from only on single entry point like main method.
